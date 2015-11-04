@@ -63,7 +63,7 @@ library
                  , random
                  , mime-mail
                  , persistent
-                 , hamlet
+                 , shakespeare
                  , yesod-core
                  , yesod-form
                  , yesod-auth
